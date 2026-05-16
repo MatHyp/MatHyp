@@ -18,7 +18,6 @@
 
 - 🚗 **ParkSight**: Developing an AI-powered smart-city parking detection system using YOLO. We started as an engineering team project and are now preparing for commercial deployment and pilot tests with ZUT.
 - 🏎️ **Engineering Thesis**: Building a WiFi-controlled RC car based on an STM32 microcontroller with driver assistance features and lane detection. Deeply learning embedded electronics to build robust hardware-software integrations.
-- 💻 **AdSite.pro**: Junior Full-Stack Developer. Building client-facing dashboards and CRM systems using Vue.js and Laravel PHP.
 
 ### 🛠️ Core Projects
 
