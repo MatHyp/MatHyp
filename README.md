@@ -3,10 +3,6 @@
 <h3 align="center">Computer Science Student & Full-Stack Developer</h3>
 
 <p align="center">
-  <i>"I write code occasionally on purpose."</i>
-</p>
-
-<p align="center">
   I am a final-year Computer Science student at the West Pomeranian University of Technology (ZUT), deeply passionate about understanding what is "under the hood" of modern AI. My primary technical focus lies at the intersection of <b>Computer Vision</b>, <b>Embedded Systems</b>, and <b>Scalable Full-Stack Development</b>.
 </p>
 
