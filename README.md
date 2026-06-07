@@ -6,11 +6,11 @@
   I am a final-year Computer Science student at the West Pomeranian University of Technology (ZUT), deeply passionate about understanding what is "under the hood" of modern AI. My primary technical focus lies at the intersection of <b>Computer Vision</b>, <b>Embedded Systems</b>, and <b>Scalable Full-Stack Development</b>.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://personal-website-five-rho-84.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/✨_View_My_Portfolio_Website-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Website" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -67,7 +67,7 @@ Computer Vision, Embedded Systems (STM32), Object-Oriented Programming, RAG, Net
   </a>
   <a href="https://linkedin.com/in/mateusz-hyps">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="https://personal-website-five-rho-84.vercel.app/" target="_blank">
+  <!-- <a href="https://personal-website-five-rho-84.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </p>
